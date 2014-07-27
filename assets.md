@@ -3,9 +3,7 @@ assetid - primary key
 type
 
 *gatefk - references gate table
-
 *bridge - references bridge table
-
 *culvert - references culvert table
 
 
@@ -13,12 +11,11 @@ type
 
 gate_table
 ----------
-type 
-*barl 
-*cable
-
+type
+*bar (value)
+*cable (value)
 lock
-*yes
-*no
-
-date_installed
+*yes (value)
+*no (value)
+lock_combination(value)
+date_installed (date field). 
