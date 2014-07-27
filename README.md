@@ -10,6 +10,6 @@ Until I get a handle on this I'm just making notes in markdown files. pretty soo
 
 Tables I think need to be included (and you will find a markdown file) 
 
-*assets - physical assets like gates, fences, culverts 
-*roads - roads with the type of road 
-*stands - stands that will be managed
+*assets - physical assets like gates, fences, culverts   
+*roads - roads with the type of road  
+*stands - stands that will be managed  
