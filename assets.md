@@ -1,9 +1,13 @@
 assets_pt (point)
 assetid - primary key 
 type
-*gatefk - references gate table 
-*bridge - references bridge table 
+
+*gatefk - references gate table
+
+*bridge - references bridge table
+
 *culvert - references culvert table
+
 
 
 
