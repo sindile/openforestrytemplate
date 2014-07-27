@@ -18,11 +18,19 @@ type
 gate_table
 ==========
 type
+
 *bar (value)
+
 *cable (value)
+
 lock
+
 *yes (value)
+
 *no (value)
+
 lock_combination(value)
+
 date_installed (date field)
+
 
