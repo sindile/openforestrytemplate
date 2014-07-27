@@ -14,3 +14,4 @@ Tables
 *assets - physical assets like gates, fences, culverts   
 *roads - roads with the type of road  
 *stands - stands that will be managed  
+*property - polygon describing the outline of the property that contains the stands
