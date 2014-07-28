@@ -8,8 +8,8 @@ name
 
 roadtype_tbl  
 ----------------
-roadtypeid
-roadtype
+roadtypeid  
+roadtype  
 * Federal Highway
 * State Highway
 * State Road
