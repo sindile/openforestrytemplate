@@ -1,6 +1,5 @@
 roads
 ======
-
 roadsid (primary key)  
 roadtypefk (roadtype_tbl)  
 name  
@@ -9,6 +8,8 @@ name
 
 roadtype_tbl  
 ----------------
+roadtypeid
+roadtype
 * Federal Highway
 * State Highway
 * State Road
