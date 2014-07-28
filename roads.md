@@ -1,7 +1,7 @@
 roads
 ======
 roadsid (primary key)  
-roadtypefk (roadtype_tbl)  
+roadtypefk (refers to roadtype_tbl)  
 name  
 
 
