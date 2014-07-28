@@ -11,7 +11,9 @@ Until I get a handle on this I'm just making notes in markdown files. pretty soo
 Tables I think need to be included (and you will find a markdown file):  
 Tables  
 -----------------
-*assets - physical assets like gates, fences, culverts   
-*roads - roads with the type of road  
-*stands - stands that will be managed  
-*property - polygon describing the outline of the property that contains the stands
+* assets - physical assets like gates, fences, culverts   
+* roads - roads with the type of road  
+* stands - stands that will be managed  
+* property - polygon describing the outline of the property that contains the stands
+* signs - no trespassing, etc - Not sure if this should fall under assets. 
+
