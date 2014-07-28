@@ -2,9 +2,9 @@ assets_pt (point)
 =================
 assetid - primary key  
 type  
-*gatefk - references gate table  
-*bridge - references bridge table  
-*culvert - references culvert table  
+* gatefk - references gate table  
+* bridge - references bridge table  
+* culvert - references culvert table  
 
 
 
@@ -22,8 +22,8 @@ type
 *	Tank Trap  
 
 lock  
-*yes (value)  
-*no (value)  
+* yes (value)  
+* no (value)  
 lock_combination(value)  
 date_installed (date field)  
 
