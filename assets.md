@@ -20,6 +20,7 @@ type
 * Farm Gate  
 *	Pipe Gate  
 *	Tank Trap  
+
 lock  
 *yes (value)  
 *no (value)  
