@@ -3,6 +3,8 @@ roads
 roadsid (primary key)  
 roadtypefk (refers to roadtype_tbl)  
 name  
+length  
+
 
 
 
