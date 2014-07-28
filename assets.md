@@ -13,8 +13,13 @@ type
 gate_table  
 ==========
 type  
-*bar (value)  
-*cable (value)  
+*	Unlocked Gate  
+*	Boulders  
+*	Cable  
+*	Double Gate  
+* Farm Gate  
+*	Pipe Gate  
+*	Tank Trap  
 lock  
 *yes (value)  
 *no (value)  
