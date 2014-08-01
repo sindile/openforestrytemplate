@@ -16,4 +16,6 @@ Tables
 * stands - stands that will be managed  
 * property - polygon describing the outline of the property that contains the stands
 * signs - no trespassing, etc - Not sure if this should fall under assets. 
-
+* gates - gates 
+* bridges 
+* culverts
