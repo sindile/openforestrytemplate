@@ -6,8 +6,8 @@ The entire thing is GPL 2.0 for now.
 
 Right now I have a script that builds a simple database in postgis. 
 
-*All tables are simple geometry and in EPSG4326
-*Right now Calculations are defaulting to EPSG:2274 (TN Stateplane Projection)
-*Right now I'm using it to store client information on my local workstation - so it is being used. 
-*USE AT YOUR OWN RISK 
-*Documentation will be added slowly and deliberately. 
+*    All tables are simple geometry and in EPSG4326
+*    Right now Calculations are defaulting to EPSG:2274 (TN Stateplane Projection)
+*    Right now I'm using it to store client information on my local workstation - so it is being used. 
+*    USE AT YOUR OWN RISK 
+*    Documentation will be added slowly and deliberately. 
